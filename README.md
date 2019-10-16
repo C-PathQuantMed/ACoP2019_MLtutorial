@@ -1,2 +1,2 @@
 # ACoP2019_MLtutorial
-Code and simulated data for machine learning use cases at ACoP 2019
+Code and simulated data coming soon to a machine learning ACoP 2019 tutorial near you :) 
